@@ -3,4 +3,4 @@ Scripting programming language with syntax similar to C++
 
 ---
 
-![ter-terlang](https://github.com/user-attachments/assets/48040efd-0ebf-4dd5-b1ca-a670e3734376)
+![ter-terlang-en](https://github.com/user-attachments/assets/c05754d8-a7da-431c-92e9-a55165b71551)
